@@ -1,0 +1,4 @@
+Flask-WTF
+Flask
+flask-mail
+flask-sqlalchemy
